@@ -3,12 +3,12 @@ first, second {
     font-family: Helvetica, 'Times New Roman', sans-serif;
 }
 
-first {
+.first {
     background-color: black;
     color: white;
     font-weight: bold;
 }
 
-second {
+.second {
     background-color: yellow;
 }
